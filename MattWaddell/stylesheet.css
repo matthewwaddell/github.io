@@ -1,0 +1,40 @@
+
+p {
+
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: bold;
+    color: blue;
+}
+
+h2 {
+    font-size: 150%;
+    font-style: italic;
+    color: navy
+}
+
+body {
+    background: gray;
+    color: black
+    font-size: 18pt;
+
+}
+
+nav a {
+    display: inline-block;
+    border: black;
+    padding: 10px;
+    margin: 5px;
+    background: white;
+}
+
+a {
+    color: white
+    text-decoration: none;
+}
+
+a:hover{
+    color: lightblue;
+}
